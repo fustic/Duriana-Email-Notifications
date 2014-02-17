@@ -319,6 +319,10 @@ module.exports = function (grunt) {
       events: {
         src: ['app/Events-Newsletters.html'],
         dest: ['app/Events-Newsletters-build.html']
+      },
+      products: {
+        src: ['app/Top-Products-Newsletters.html'],
+        dest: ['app/Top-Products-Newsletters-build.html']
       }
     }
   });
