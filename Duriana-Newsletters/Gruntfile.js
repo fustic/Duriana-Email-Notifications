@@ -323,6 +323,10 @@ module.exports = function (grunt) {
       products: {
         src: ['app/Top-Products-Newsletters.html'],
         dest: ['app/Top-Products-Newsletters-build.html']
+      },
+      weakly: {
+        src: ['app/Weekly-Newsletters.html'],
+        dest: ['app/Weekly-Newsletters-build.html']
       }
     }
   });
