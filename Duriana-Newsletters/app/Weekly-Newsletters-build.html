@@ -6,6 +6,35 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Your Message Subject or Title</title>
   <style>
+    /* HTML5 display-role reset for older browsers */
+    article, aside, details, figcaption, figure,
+    footer, header, hgroup, menu, nav, section {
+      display: block;
+    }
+
+    body {
+      line-height: 1;
+    }
+
+    ol, ul {
+      list-style: none;
+    }
+
+    blockquote, q {
+      quotes: none;
+    }
+
+    blockquote:before, blockquote:after,
+    q:before, q:after {
+      content: '';
+      content: none;
+    }
+
+    table {
+      border-collapse: collapse;
+      border-spacing: 0;
+    }
+
     #outlook a {
       padding: 0;
     }
@@ -249,11 +278,9 @@
       height: 515px;
     }
 
-    .content-greeting-block span {
-      display: block;
+    .content-greeting-block img {
       height: 515px;
-      width: auto;
-      background-color: #cacaca;
+      width: 730px;
     }
 
     .content-text {
@@ -285,9 +312,19 @@
       background: url('images/icon_social_twitter.png') no-repeat;
     }
 
+    .content-body-event tr {
+      line-height: normal;
+    }
+
     .content-body-event .event-picture {
       height: 245px;
-      background: #cacaca;
+      width: 100%;
+      background-color: #3b3b3b
+    }
+
+    .content-body-event .event-picture img {
+      height: 245px;
+      width: 100%;
     }
 
     .content-body-event .event-description {
@@ -328,9 +365,9 @@
       vertical-align: top;
     }
 
-    .content-body-blog .blog-event-image {
+    .content-body-blog .blog-event-image img {
       width: 235px;
-      background: #cacaca;
+      height: 245px;
     }
 
     .content-body-blog .blog-event-content td {

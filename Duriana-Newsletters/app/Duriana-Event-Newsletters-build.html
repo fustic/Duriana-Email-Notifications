@@ -6,113 +6,490 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Your Message Subject or Title</title>
   <style>
-#outlook a {padding:0;}
-body{width:100% !important; -webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; margin:0; padding:0;}
-.ExternalClass {width:100%;}
-.ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div {line-height: 100%;}
-#backgroundTable {margin:0; padding:0; width:100% !important; line-height: 100% !important;}
-img {outline:none; text-decoration:none; -ms-interpolation-mode: bicubic;}
-a img {border:none;}
-.image_fix {display:block;}
-p {margin: 1em 0;}
-h1, h2, h3, h4, h5, h6 {color: black !important;}
-h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {color: blue !important;}
-h1 a:active, h2 a:active,  h3 a:active, h4 a:active, h5 a:active, h6 a:active {
-    color: red !important;
-}
-h1 a:visited, h2 a:visited,  h3 a:visited, h4 a:visited, h5 a:visited, h6 a:visited {
-    color: purple !important
-}
-table td {border-collapse: collapse;}
-table { border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; }
-a {color: #cacaca;}
+    /* HTML5 display-role reset for older browsers */
+    article, aside, details, figcaption, figure,
+    footer, header, hgroup, menu, nav, section {
+      display: block;
+    }
 
-body { font-family: Helvetica, serif; font-size: 11pt; color: #cacaca;}
-table {border-collapse: collapse; border-spacing: 0px 0px; width: 100%;}
-hr { display: block; height: 1px; border: 0; border-top: 1px solid #ccc; margin: 1em 0; padding: 0; }
+    body {
+      line-height: 1;
+    }
 
-.mt-20 {margin-top: 20px;}
-.mt-15 {margin-top: 15px;}
-.mt-10 {margin-top: 10px;}
-.mb-10 {margin-bottom: 10px;}
-.mb-5 {margin-bottom: 5px;}
-.pt-30 {padding-top: 30px;}
-.pt-15 {padding-top: 15px;}
-.pt-10 {padding-top: 10px;}
-.pt-5 {padding-top: 5px;}
-.pl-5 {padding-left: 5px;}
-.pr-5 {padding-right: 5px;}
-.fs-20 {font-size: 20px !important;}
-.fs-14 {font-size: 14px !important;}
-.fs-12 {font-size: 12px !important;}
-.tl-r {text-align: right !important;}
-.tl-c {text-align: center !important;}
-.tl-l {text-align: left !important;}
-.va-t {vertical-align: top !important;}
+    ol, ul {
+      list-style: none;
+    }
 
-.bold {font-weight: bold;}
-.button {border: none; font-size: 24px; padding: 15px}
-.button.orange {background-color: #ee6310; color: #fff;}
-.text-caps {display: block; text-transform: uppercase;}
-.blue {color: #16aace; border-color: #16aace;}
+    blockquote, q {
+      quotes: none;
+    }
 
-.content {width: 800px; border: 0; text-align: center;}
-.content-sub-header {background: #eeeeee url('images/sub-header.png') no-repeat; width:800px; height: 70px;}
-.content-sub-header.top-week-products {background: url('images/top-products.png') no-repeat;}
-.content-body {width: 730px;}
-.content-body tr {line-height: 15pt;}
-.content-body td {text-align: center;}
-.content-footer-buttons {padding-bottom: 20px;}
-.content-footer-buttons span{display: inline-table; width: 135px; height: 40px;}
-.content-footer-buttons a.google span {background: url('images/google-play.png') no-repeat;}
-.content-footer-buttons a.apple span {background: url('images/apple.png') no-repeat;}
-.content-greeting-block {height: 515px;}
-.content-greeting-block span {display: block; height: 515px; width: auto; background-color: #cacaca;}
-.content-text {font-size: 24px; line-height: 24px; font-weight: lighter; color: #797979;}
-.content-body td.social-links {padding-top: 15px;}
-.content-body td.social-links a {width: 28px; height: 28px; display: inline-table;}
-.content-body td.social-links a.facebook {background: url('images/icon_social_facebook.png') no-repeat;}
-.content-body td.social-links a.instagram {background: url('images/icon_social_instagram.png') no-repeat;}
-.content-body td.social-links a.twitter {background: url('images/icon_social_twitter.png') no-repeat;}
+    blockquote:before, blockquote:after,
+    q:before, q:after {
+      content: '';
+      content: none;
+    }
 
-.content-body-event .event-picture {height: 245px; background: #cacaca;}
-.content-body-event .event-description {height: 85px; background: #3b3b3b;}
-.content-body-event .event-description span {color: #cecece; font-size: 24px; display: block;}
-.content-body-event .event-description span.text-caps {color: #ffffff; text-transform: uppercase}
-.content-body-event .event-description .event-button {text-align: right; padding-right: 10px}
-.content-body-event .event-description .event-text {text-align: left; padding-left: 10px}
+    table {
+      border-collapse: collapse;
+      border-spacing: 0;
+    }
 
-.content-body-blog {height: 245px; }
-.content-body-blog tr {line-height: 25px;}
-.content-body-blog td {vertical-align: top;}
-.content-body-blog .blog-event-image {width: 235px; background: #cacaca;}
-.content-body-blog .blog-event-content td {text-align: left; font-size: 24px; padding-left: 10px;}
-.blog-event-content .blog-title {color: #474747; font-weight: bold; text-transform: uppercase;}
-.blog-event-content .blog-text {font-weight: lighter; text-overflow: ellipsis; height: 133px; overflow: hidden; display: block;}
+    #outlook a {
+      padding: 0;
+    }
 
-.content-product .product-header img {height: 85px; width: 85px; border-radius: 50px;}
-.content-product td {text-align: left;}
-.product-header .product-image {width: 100px;}
-.product-header span {color: #939393; font-size: 24px; display: block; font-weight: lighter;}
-.product-header span.product-title {color: #474747; text-transform: uppercase; font-weight: bold; margin-bottom: 10px;}
+    body {
+      width: 100% !important;
+      -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+      margin: 0;
+      padding: 0;
+    }
 
-.product, .product img.product-image {width: 235px; height: 245px;}
-.product img.product-image, .product table {float: left; z-index: 9;}
-.product table {z-index:10; margin-top: -47px; margin-left: 7px; background-color: #fff; height: 37px; width: 222px;}
-.product .product-button {width: 28px; height: 28px; text-align: right}
-.product span {color: #939393; font-size: 14px; display: block; font-weight: lighter;}
-.product span.product-title {color: #474747; text-transform: capitalize; font-weight: bold;}
+    .ExternalClass {
+      width: 100%;
+    }
 
-.product.long, .product.long img.product-image {height: 345px;}
-.product.short, .product.short img.product-image {height: 155px;}
-.product.double-long, .product.double-long img.product-image {height: 495px;}
-.product.mid-long, .product.mid-long img.product-image {height: 445px;}
+    .ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div {
+      line-height: 100%;
+    }
 
-.sugessted-user {height: 270px; background-color: #eeeeee; color: #474747; font-size: 14px;}
-.sugessted-user img {height: 125px; width: 125px; border-radius: 50px;}
-.sugessted-user .button {padding: 4px 10px}
+    #backgroundTable {
+      margin: 0;
+      padding: 0;
+      width: 100% !important;
+      line-height: 100% !important;
+    }
 
-</style>
+    img {
+      outline: none;
+      text-decoration: none;
+      -ms-interpolation-mode: bicubic;
+    }
+
+    a img {
+      border: none;
+    }
+
+    .image_fix {
+      display: block;
+    }
+
+    p {
+      margin: 1em 0;
+    }
+
+    h1, h2, h3, h4, h5, h6 {
+      color: black !important;
+    }
+
+    h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
+      color: blue !important;
+    }
+
+    h1 a:active, h2 a:active, h3 a:active, h4 a:active, h5 a:active, h6 a:active {
+      color: red !important;
+    }
+
+    h1 a:visited, h2 a:visited, h3 a:visited, h4 a:visited, h5 a:visited, h6 a:visited {
+      color: purple !important
+    }
+
+    table td {
+      border-collapse: collapse;
+    }
+
+    table {
+      border-collapse: collapse;
+      mso-table-lspace: 0pt;
+      mso-table-rspace: 0pt;
+    }
+
+    a {
+      color: #cacaca;
+    }
+
+    body {
+      font-family: Helvetica, serif;
+      font-size: 11pt;
+      color: #cacaca;
+    }
+
+    table {
+      border-collapse: collapse;
+      border-spacing: 0px 0px;
+      width: 100%;
+    }
+
+    hr {
+      display: block;
+      height: 1px;
+      border: 0;
+      border-top: 1px solid #ccc;
+      margin: 1em 0;
+      padding: 0;
+    }
+
+    .mt-20 {
+      margin-top: 20px;
+    }
+
+    .mt-15 {
+      margin-top: 15px;
+    }
+
+    .mt-10 {
+      margin-top: 10px;
+    }
+
+    .mb-10 {
+      margin-bottom: 10px;
+    }
+
+    .mb-5 {
+      margin-bottom: 5px;
+    }
+
+    .pt-30 {
+      padding-top: 30px;
+    }
+
+    .pt-15 {
+      padding-top: 15px;
+    }
+
+    .pt-10 {
+      padding-top: 10px;
+    }
+
+    .pt-5 {
+      padding-top: 5px;
+    }
+
+    .pl-5 {
+      padding-left: 5px;
+    }
+
+    .pr-5 {
+      padding-right: 5px;
+    }
+
+    .fs-20 {
+      font-size: 20px !important;
+    }
+
+    .fs-14 {
+      font-size: 14px !important;
+    }
+
+    .fs-12 {
+      font-size: 12px !important;
+    }
+
+    .tl-r {
+      text-align: right !important;
+    }
+
+    .tl-c {
+      text-align: center !important;
+    }
+
+    .tl-l {
+      text-align: left !important;
+    }
+
+    .va-t {
+      vertical-align: top !important;
+    }
+
+    .bold {
+      font-weight: bold;
+    }
+
+    .button {
+      border: none;
+      font-size: 24px;
+      padding: 15px
+    }
+
+    .button.orange {
+      background-color: #ee6310;
+      color: #fff;
+    }
+
+    .text-caps {
+      display: block;
+      text-transform: uppercase;
+    }
+
+    .blue {
+      color: #16aace;
+      border-color: #16aace;
+    }
+
+    .content {
+      width: 800px;
+      border: 0;
+      text-align: center;
+    }
+
+    .content-sub-header {
+      background: #eeeeee url('images/sub-header.png') no-repeat;
+      width: 800px;
+      height: 70px;
+    }
+
+    .content-sub-header.top-week-products {
+      background: url('images/top-products.png') no-repeat;
+    }
+
+    .content-body {
+      width: 730px;
+    }
+
+    .content-body tr {
+      line-height: 15pt;
+    }
+
+    .content-body td {
+      text-align: center;
+    }
+
+    .content-footer-buttons {
+      padding-bottom: 20px;
+    }
+
+    .content-footer-buttons span {
+      display: inline-table;
+      width: 135px;
+      height: 40px;
+    }
+
+    .content-footer-buttons a.google span {
+      background: url('images/google-play.png') no-repeat;
+    }
+
+    .content-footer-buttons a.apple span {
+      background: url('images/apple.png') no-repeat;
+    }
+
+    .content-greeting-block {
+      height: 515px;
+    }
+
+    .content-greeting-block img {
+      height: 515px;
+      width: 730px;
+    }
+
+    .content-text {
+      font-size: 24px;
+      line-height: 24px;
+      font-weight: lighter;
+      color: #797979;
+    }
+
+    .content-body td.social-links {
+      padding-top: 15px;
+    }
+
+    .content-body td.social-links a {
+      width: 28px;
+      height: 28px;
+      display: inline-table;
+    }
+
+    .content-body td.social-links a.facebook {
+      background: url('images/icon_social_facebook.png') no-repeat;
+    }
+
+    .content-body td.social-links a.instagram {
+      background: url('images/icon_social_instagram.png') no-repeat;
+    }
+
+    .content-body td.social-links a.twitter {
+      background: url('images/icon_social_twitter.png') no-repeat;
+    }
+
+    .content-body-event tr {
+      line-height: normal;
+    }
+
+    .content-body-event .event-picture {
+      height: 245px;
+      width: 100%;
+      background-color: #3b3b3b
+    }
+
+    .content-body-event .event-picture img {
+      height: 245px;
+      width: 100%;
+    }
+
+    .content-body-event .event-description {
+      height: 85px;
+      background: #3b3b3b;
+    }
+
+    .content-body-event .event-description span {
+      color: #cecece;
+      font-size: 24px;
+      display: block;
+    }
+
+    .content-body-event .event-description span.text-caps {
+      color: #ffffff;
+      text-transform: uppercase
+    }
+
+    .content-body-event .event-description .event-button {
+      text-align: right;
+      padding-right: 10px
+    }
+
+    .content-body-event .event-description .event-text {
+      text-align: left;
+      padding-left: 10px
+    }
+
+    .content-body-blog {
+      height: 245px;
+    }
+
+    .content-body-blog tr {
+      line-height: 25px;
+    }
+
+    .content-body-blog td {
+      vertical-align: top;
+    }
+
+    .content-body-blog .blog-event-image img {
+      width: 235px;
+      height: 245px;
+    }
+
+    .content-body-blog .blog-event-content td {
+      text-align: left;
+      font-size: 24px;
+      padding-left: 10px;
+    }
+
+    .blog-event-content .blog-title {
+      color: #474747;
+      font-weight: bold;
+      text-transform: uppercase;
+    }
+
+    .blog-event-content .blog-text {
+      font-weight: lighter;
+      text-overflow: ellipsis;
+      height: 133px;
+      overflow: hidden;
+      display: block;
+    }
+
+    .content-product .product-header img {
+      height: 85px;
+      width: 85px;
+      border-radius: 50px;
+    }
+
+    .content-product td {
+      text-align: left;
+    }
+
+    .product-header .product-image {
+      width: 100px;
+    }
+
+    .product-header span {
+      color: #939393;
+      font-size: 24px;
+      display: block;
+      font-weight: lighter;
+    }
+
+    .product-header span.product-title {
+      color: #474747;
+      text-transform: uppercase;
+      font-weight: bold;
+      margin-bottom: 10px;
+    }
+
+    .product, .product img.product-image {
+      width: 235px;
+      height: 245px;
+    }
+
+    .product img.product-image, .product table {
+      float: left;
+      z-index: 9;
+    }
+
+    .product table {
+      z-index: 10;
+      margin-top: -47px;
+      margin-left: 7px;
+      background-color: #fff;
+      height: 37px;
+      width: 222px;
+    }
+
+    .product .product-button {
+      width: 28px;
+      height: 28px;
+      text-align: right
+    }
+
+    .product span {
+      color: #939393;
+      font-size: 14px;
+      display: block;
+      font-weight: lighter;
+    }
+
+    .product span.product-title {
+      color: #474747;
+      text-transform: capitalize;
+      font-weight: bold;
+    }
+
+    .product.long, .product.long img.product-image {
+      height: 345px;
+    }
+
+    .product.short, .product.short img.product-image {
+      height: 155px;
+    }
+
+    .product.double-long, .product.double-long img.product-image {
+      height: 495px;
+    }
+
+    .product.mid-long, .product.mid-long img.product-image {
+      height: 445px;
+    }
+
+    .sugessted-user {
+      height: 270px;
+      background-color: #eeeeee;
+      color: #474747;
+      font-size: 14px;
+    }
+
+    .sugessted-user img {
+      height: 125px;
+      width: 125px;
+      border-radius: 50px;
+    }
+
+    .sugessted-user .button {
+      padding: 4px 10px
+    }
+
+  </style>
 </head>
 <body>
 <table cellpadding="0" cellspacing="0" border="0" id="backgroundTable">
@@ -125,26 +502,37 @@ hr { display: block; height: 1px; border: 0; border-top: 1px solid #ccc; margin:
           </td>
         </tr>
 
-<tr>
-  <td>
-    <table cellpadding="0" cellspacing="0" border="0" class="content content-body" align="center">
-      <tr>
-        <td class="content-greeting-block pt-30">
-          <span></span>
-        </td>
-      </tr>
+        <tr>
+          <td>
+            <table cellpadding="0" cellspacing="0" border="0" class="content content-body" align="center">
+              <tr>
+                <td class="content-greeting-block pt-30">
+                  <img src="images/product-image.png" alt="greeting"/>
+                </td>
+              </tr>
 
-      <tr>
-        <td class="content-text pt-30">
-          Loren Ipsum Loren Ipsum Loren Ipsum Loren Ipsum Loren Ipsum Loren Ipsum Loren Ipsum Loren Ipsum Loren Ipsum  Loren Ipsum Loren Ipsum Loren Ipsum Loren Ipsum Loren Ipsum Loren Ipsum Loren Ipsum Loren Ipsum Loren Ipsum
-        </td>
-      </tr>
+              <tr>
+                <td class="content-text pt-30 tl-l">
+                  Loren Ipsum Loren Ipsum Loren Ipsum Loren Ipsum Loren Ipsum Loren Ipsum Loren Ipsum Loren Ipsum Loren
+                  Ipsum Loren Ipsum Loren Ipsum Loren Ipsum Loren Ipsum Loren Ipsum Loren Ipsum Loren Ipsum Loren Ipsum
+                  Loren Ipsum
+                </td>
+              </tr>
+              <tr>
+                <td class="content-text pt-30 tl-l">
+                  Loren Ipsum Loren Ipsum Loren Ipsum Loren Ipsum Loren Ipsum Loren Ipsum Loren Ipsum Loren Ipsum Loren
+                  Ipsum Loren Ipsum Loren Ipsum Loren Ipsum Loren Ipsum Loren Ipsum Loren Ipsum Loren Ipsum Loren Ipsum
+                  Loren Ipsum
+                </td>
+              </tr>
 
-      <tr>
-        <td class="pt-30">
-          <a href="#"><button class="button orange">CHECK IT OUT</button></a>
-        </td>
-      </tr>
+              <tr>
+                <td class="pt-30">
+                  <a href="#">
+                    <button class="button orange">CHECK IT OUT</button>
+                  </a>
+                </td>
+              </tr>
 
               <tr>
                 <td class="content-footer-buttons pt-30">
@@ -178,8 +566,8 @@ hr { display: block; height: 1px; border: 0; border-top: 1px solid #ccc; margin:
           </td>
         </tr>
       </table>
-      </td>
-    </tr>
-  </table>
+    </td>
+  </tr>
+</table>
 </body>
 </html>
