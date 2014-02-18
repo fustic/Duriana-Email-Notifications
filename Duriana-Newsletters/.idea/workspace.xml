@@ -137,14 +137,6 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <option name="VMOptions" />
-      <option name="arguments" />
-      <option name="filePath" />
-      <option name="scope" value="ALL" />
-      <option name="testName" />
-      <method />
-    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -155,15 +147,23 @@
       <option name="showConsoleOnStdOut" value="false" />
       <method />
     </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
+      <envs />
+      <method />
+    </configuration>
     <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
       <setting name="configLocationType" value="CONFIG_FILE" />
       <setting name="settingsFile" value="" />
       <setting name="serverType" value="INTERNAL" />
       <setting name="preferredDebugBrowser" value="CHROME" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
-      <envs />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
@@ -200,11 +200,11 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32891566" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -226,30 +226,22 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/app/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2040">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2040" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Gruntfile.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="312" column="6" selection-start="7447" selection-end="7447" vertical-scroll-proportion="0.0" vertical-offset="4711" max-vertical-offset="5715">
-          <folding />
-        </state>
+        <state line="312" column="6" selection-start="7447" selection-end="7447" vertical-scroll-proportion="0.0" vertical-offset="4711" max-vertical-offset="5715" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Events-Newsletters.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="71" selection-start="464" selection-end="464" vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="2655">
-          <folding />
-        </state>
+        <state line="14" column="71" selection-start="464" selection-end="464" vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="2655" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Events-Newsletters.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="83" column="20" selection-start="3002" selection-end="3002" vertical-scroll-proportion="0.0" vertical-offset="1245" max-vertical-offset="2565">
-          <folding />
-        </state>
+        <state line="83" column="20" selection-start="3002" selection-end="3002" vertical-scroll-proportion="0.0" vertical-offset="1245" max-vertical-offset="2565" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Top-Products-Newsletters.html">
@@ -259,9 +251,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Events-Newsletters.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="83" column="20" selection-start="3002" selection-end="3002" vertical-scroll-proportion="0.0" vertical-offset="1245" max-vertical-offset="2565">
-          <folding />
-        </state>
+        <state line="83" column="20" selection-start="3002" selection-end="3002" vertical-scroll-proportion="0.0" vertical-offset="1245" max-vertical-offset="2565" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Top-Products-Newsletters.html">
@@ -271,9 +261,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Events-Newsletters.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="83" column="20" selection-start="3002" selection-end="3002" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2565">
-          <folding />
-        </state>
+        <state line="83" column="20" selection-start="3002" selection-end="3002" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2565" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Top-Products-Newsletters.html">
@@ -283,9 +271,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Events-Newsletters.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="84" column="79" selection-start="3080" selection-end="3080" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1515">
-          <folding />
-        </state>
+        <state line="84" column="79" selection-start="3080" selection-end="3080" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1515" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Gruntfile.js">
@@ -295,9 +281,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Events-Newsletters.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="38" selection-start="377" selection-end="390" vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="615">
-          <folding />
-        </state>
+        <state line="13" column="38" selection-start="377" selection-end="390" vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="615" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Duriana-Event-Newsletters.html">
@@ -312,9 +296,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Events-Newsletters.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="28" selection-start="579" selection-end="579" vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="435">
-          <folding />
-        </state>
+        <state line="23" column="28" selection-start="579" selection-end="579" vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="435" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Gruntfile.js">
@@ -329,9 +311,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Events-Newsletters.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="110" selection-end="110" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="360">
-          <folding />
-        </state>
+        <state line="6" column="0" selection-start="110" selection-end="110" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="360" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Gruntfile.js">
@@ -396,9 +376,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/dist/31c6cb6c.main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="1477" selection-start="1473" selection-end="1477" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="90">
-          <folding />
-        </state>
+        <state line="0" column="1477" selection-start="1473" selection-end="1477" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="90" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/header.html">
@@ -433,51 +411,37 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Events-Newsletters-build.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="413" column="16" selection-start="7411" selection-end="7411" vertical-scroll-proportion="-5.0539846" vertical-offset="10127" max-vertical-offset="10905">
-          <folding />
-        </state>
+        <state line="413" column="16" selection-start="7411" selection-end="7411" vertical-scroll-proportion="-5.0539846" vertical-offset="10127" max-vertical-offset="10905" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Duriana-Event-Newsletters-build.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="307" selection-end="307" vertical-scroll-proportion="-8.31234" vertical-offset="6557" max-vertical-offset="8685">
-          <folding />
-        </state>
+        <state line="6" column="0" selection-start="307" selection-end="307" vertical-scroll-proportion="-8.31234" vertical-offset="6557" max-vertical-offset="8685" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="18" selection-start="352" selection-end="352" vertical-scroll-proportion="0.3179551" vertical-offset="0" max-vertical-offset="2040">
-          <folding />
-        </state>
+        <state line="17" column="18" selection-start="352" selection-end="352" vertical-scroll-proportion="0.3179551" vertical-offset="0" max-vertical-offset="2040" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Gruntfile.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="312" column="6" selection-start="7447" selection-end="7447" vertical-scroll-proportion="-0.038653366" vertical-offset="4711" max-vertical-offset="5715">
-          <folding />
-        </state>
+        <state line="312" column="6" selection-start="7447" selection-end="7447" vertical-scroll-proportion="-0.038653366" vertical-offset="4711" max-vertical-offset="5715" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Events-Newsletters.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="63" column="99" selection-start="2300" selection-end="2317" vertical-scroll-proportion="0.28920308" vertical-offset="720" max-vertical-offset="2655">
-          <folding />
-        </state>
+        <state line="63" column="99" selection-start="2300" selection-end="2317" vertical-scroll-proportion="0.28920308" vertical-offset="720" max-vertical-offset="2655" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Top-Products-Newsletters-build.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="5" selection-start="627" selection-end="627" vertical-scroll-proportion="0.3856041" vertical-offset="0" max-vertical-offset="12285">
-          <folding />
-        </state>
+        <state line="20" column="5" selection-start="627" selection-end="627" vertical-scroll-proportion="0.3856041" vertical-offset="0" max-vertical-offset="12285" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Weekly-Newsletters-build.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="12" selection-start="597" selection-end="597" vertical-scroll-proportion="0.3470437" vertical-offset="0" max-vertical-offset="14505">
-          <folding />
-        </state>
+        <state line="18" column="12" selection-start="597" selection-end="597" vertical-scroll-proportion="0.3470437" vertical-offset="0" max-vertical-offset="14505" />
       </provider>
     </entry>
   </component>

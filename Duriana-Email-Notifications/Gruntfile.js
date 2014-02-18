@@ -312,21 +312,57 @@ module.exports = function (grunt) {
       ]
     },
     inline: {
-      event: {
-        src: ['app/Duriana-Event-Newsletters.html'],
-        dest: ['app/Duriana-Event-Newsletters-build.html']
+      accept: {
+        src: ['app/Buying-SellerAcceptedOffer.html'],
+        dest: ['app/Buying-SellerAcceptedOffer-build.html']
       },
-      events: {
-        src: ['app/Events-Newsletters.html'],
-        dest: ['app/Events-Newsletters-build.html']
+      decline: {
+        src: ['app/Buying-SellerDeclinedOffer.html'],
+        dest: ['app/Buying-SellerDeclinedOffer-build.html']
       },
-      products: {
-        src: ['app/Top-Products-Newsletters.html'],
-        dest: ['app/Top-Products-Newsletters-build.html']
+      sentmessage: {
+        src: ['app/Buying-SellerSentMessage.html'],
+        dest: ['app/Buying-SellerSentMessage-build.html']
       },
-      weakly: {
-        src: ['app/Weekly-Newsletters.html'],
-        dest: ['app/Weekly-Newsletters-build.html']
+      soldtosomeoneelse: {
+        src: ['app/Buying-SoldToSomeoneElse.html'],
+        dest: ['app/Buying-SoldToSomeoneElse-build.html']
+      },
+      updateitem: {
+        src: ['app/Buying-UpdatedItemBiddingOn.html'],
+        dest: ['app/Buying-UpdatedItemBiddingOn-build.html']
+      },
+      newoffers: {
+        src: ['app/Buying-XNewOfers.html'],
+        dest: ['app/Buying-XNewOfers-build.html']
+      },
+      reminderitem: {
+        src: ['app/Reminder-ItemStillForSale.html'],
+        dest: ['app/Reminder-ItemStillForSale-build.html']
+      },
+      remindersoffers: {
+        src: ['app/Reminders-XOffersOnItem.html'],
+        dest: ['app/Reminders-XOffersOnItem-build.html']
+      },
+      searchalert: {
+        src: ['app/Search-SearchAlert.html'],
+        dest: ['app/Search-SearchAlert-build.html']
+      },
+      newcomment: {
+        src: ['app/Selling-NewComment.html'],
+        dest: ['app/Selling-NewComment-build.html']
+      },
+      newfeedback: {
+        src: ['app/Selling-NewFeedback.html'],
+        dest: ['app/Selling-NewFeedback-build.html']
+      },
+      newmessage: {
+        src: ['app/Selling-NewMessage.html'],
+        dest: ['app/Selling-NewMessage-build.html']
+      },
+      newoffer: {
+        src: ['app/Selling-NewOffer.html'],
+        dest: ['app/Selling-NewOffer-build.html']
       }
     }
   });
