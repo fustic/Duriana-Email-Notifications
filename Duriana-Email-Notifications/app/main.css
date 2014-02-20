@@ -24,6 +24,7 @@ body { font-family: Helvetica, serif; font-size: 11pt; color: #9d9d9d;}
 .mt-20 {margin-top: 20px;}
 .mt-15 {margin-top: 15px;}
 .mt-10 {margin-top: 10px;}
+.blue {color: #16aace;}
 .content {width: 800px; border: 0; text-align: center;}
 .content-body {width: 80%; margin-top: 30px}
 .content-body tr {line-height: 15pt;}

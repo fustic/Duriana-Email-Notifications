@@ -26,7 +26,7 @@
       <file leaf-file-name="Reminders-XOffersOnItem-build.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/Reminders-XOffersOnItem-build.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="5115">
+            <state line="2" column="0" selection-start="111" selection-end="111" vertical-scroll-proportion="11.875" vertical-offset="315" max-vertical-offset="5175">
               <folding />
             </state>
           </provider>
@@ -35,7 +35,7 @@
       <file leaf-file-name="Search-SearchAlert-build.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/Search-SearchAlert-build.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="5115">
+            <state line="2" column="0" selection-start="111" selection-end="111" vertical-scroll-proportion="30.625" vertical-offset="765" max-vertical-offset="5175">
               <folding />
             </state>
           </provider>
@@ -44,16 +44,7 @@
       <file leaf-file-name="Selling-NewComment-build.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/Selling-NewComment-build.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="0" selection-start="607" selection-end="607" vertical-scroll-proportion="-14.375" vertical-offset="0" max-vertical-offset="5085">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Selling-NewFeedback.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/Selling-NewFeedback.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="22" selection-start="933" selection-end="933" vertical-scroll-proportion="-18.125" vertical-offset="0" max-vertical-offset="765">
+            <state line="200" column="0" selection-start="4450" selection-end="4450" vertical-scroll-proportion="-101.875" vertical-offset="555" max-vertical-offset="5145">
               <folding />
             </state>
           </provider>
@@ -62,16 +53,16 @@
       <file leaf-file-name="Selling-NewFeedback-build.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/Selling-NewFeedback-build.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="88" column="0" selection-start="1810" selection-end="1810" vertical-scroll-proportion="100.0" vertical-offset="3720" max-vertical-offset="5265">
+            <state line="231" column="0" selection-start="5093" selection-end="5093" vertical-scroll-proportion="-72.75" vertical-offset="1719" max-vertical-offset="5325">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Selling-NewMessage-build.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/Selling-NewMessage-build.html">
+      <file leaf-file-name="Buying-SellerSentMessage-build.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Buying-SellerSentMessage-build.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="120" column="15" selection-start="2222" selection-end="2222" vertical-scroll-proportion="-75.0" vertical-offset="0" max-vertical-offset="5100">
+            <state line="327" column="0" selection-start="7961" selection-end="7961" vertical-scroll-proportion="-140.25" vertical-offset="1539" max-vertical-offset="5145">
               <folding />
             </state>
           </provider>
@@ -80,7 +71,43 @@
       <file leaf-file-name="Selling-NewOffer-build.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/Selling-NewOffer-build.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="0" selection-start="759" selection-end="759" vertical-scroll-proportion="0.53642386" vertical-offset="0" max-vertical-offset="5100">
+            <state line="311" column="19" selection-start="7397" selection-end="7397" vertical-scroll-proportion="0.3237705" vertical-offset="4428" max-vertical-offset="5160">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Buying-SoldToSomeoneElse-build.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Buying-SoldToSomeoneElse-build.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="70" column="20" selection-start="1544" selection-end="1544" vertical-scroll-proportion="-43.333332" vertical-offset="10" max-vertical-offset="5175">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Buying-UpdatedItemBiddingOn-build.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Buying-UpdatedItemBiddingOn-build.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="189" column="24" selection-start="4064" selection-end="4064" vertical-scroll-proportion="-114.625" vertical-offset="84" max-vertical-offset="5175">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Reminder-ItemStillForSale-build.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Reminder-ItemStillForSale-build.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="197" column="9" selection-start="4329" selection-end="4329" vertical-scroll-proportion="-57.375" vertical-offset="1578" max-vertical-offset="5160">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Buying-XNewOfers-build.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Buying-XNewOfers-build.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="60" column="0" selection-start="1262" selection-end="1262" vertical-scroll-proportion="-37.5" vertical-offset="0" max-vertical-offset="5190">
               <folding />
             </state>
           </provider>
@@ -113,20 +140,20 @@
         <option value="$PROJECT_DIR$/app/email.html" />
         <option value="$PROJECT_DIR$/app/footer.html" />
         <option value="$PROJECT_DIR$/Gruntfile.js" />
-        <option value="$PROJECT_DIR$/app/main.css" />
         <option value="$PROJECT_DIR$/app/Buying-SellerAcceptedOffer.html" />
         <option value="$PROJECT_DIR$/app/Buying-SellerDeclinedOffer.html" />
         <option value="$PROJECT_DIR$/app/Buying-SellerSentMessage.html" />
         <option value="$PROJECT_DIR$/app/Buying-SoldToSomeoneElse.html" />
         <option value="$PROJECT_DIR$/app/Buying-UpdatedItemBiddingOn.html" />
         <option value="$PROJECT_DIR$/app/Buying-XNewOfers.html" />
-        <option value="$PROJECT_DIR$/app/Reminder-ItemStillForSale.html" />
         <option value="$PROJECT_DIR$/app/Reminders-XOffersOnItem.html" />
         <option value="$PROJECT_DIR$/app/Search-SearchAlert.html" />
         <option value="$PROJECT_DIR$/app/Selling-NewComment.html" />
         <option value="$PROJECT_DIR$/app/Selling-NewFeedback.html" />
         <option value="$PROJECT_DIR$/app/Selling-NewMessage.html" />
         <option value="$PROJECT_DIR$/app/Selling-NewOffer.html" />
+        <option value="$PROJECT_DIR$/app/Reminder-ItemStillForSale.html" />
+        <option value="$PROJECT_DIR$/app/main.css" />
         <option value="$PROJECT_DIR$/app/Buying-SellerAcceptedOffer-build.html" />
         <option value="$PROJECT_DIR$/app/Buying-SellerDeclinedOffer-build.html" />
         <option value="$PROJECT_DIR$/app/Buying-SellerSentMessage-build.html" />
@@ -173,7 +200,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -208,6 +234,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -283,7 +310,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24876674" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24876674" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -315,18 +342,28 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/main.css">
+    <entry file="file://$PROJECT_DIR$/app/Selling-NewMessage-build.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2040">
+        <state line="120" column="15" selection-start="2222" selection-end="2222" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5100">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Gruntfile.js">
+    <entry file="file://$PROJECT_DIR$/app/Selling-NewOffer-build.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="312" column="6" selection-start="7447" selection-end="7447" vertical-scroll-proportion="0.0" vertical-offset="4711" max-vertical-offset="5715">
+        <state line="27" column="0" selection-start="759" selection-end="759" vertical-scroll-proportion="0.0" vertical-offset="405" max-vertical-offset="5100">
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2040" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gruntfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="312" column="6" selection-start="7447" selection-end="7447" vertical-scroll-proportion="0.0" vertical-offset="4711" max-vertical-offset="5715" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Gruntfile.js">
@@ -406,224 +443,192 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/dist/31c6cb6c.main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="1477" selection-start="1473" selection-end="1477" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="90">
-          <folding />
-        </state>
+        <state line="0" column="1477" selection-start="1473" selection-end="1477" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="90" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/footer.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="14" selection-start="15" selection-end="15" vertical-scroll-proportion="-0.625" vertical-offset="0" max-vertical-offset="570">
-          <folding />
-        </state>
+        <state line="1" column="14" selection-start="15" selection-end="15" vertical-scroll-proportion="-0.625" vertical-offset="0" max-vertical-offset="570" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Gruntfile.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="364" column="36" selection-start="9189" selection-end="9189" vertical-scroll-proportion="1.8877805" vertical-offset="3946" max-vertical-offset="6255">
-          <folding />
-        </state>
+        <state line="364" column="36" selection-start="9189" selection-end="9189" vertical-scroll-proportion="1.8877805" vertical-offset="3946" max-vertical-offset="6255" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/email.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="352" selection-end="352" vertical-scroll-proportion="-2.5" vertical-offset="45" max-vertical-offset="2055">
-          <folding />
-        </state>
+        <state line="7" column="0" selection-start="352" selection-end="352" vertical-scroll-proportion="-2.5" vertical-offset="45" max-vertical-offset="2055" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/header.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="45" selection-start="559" selection-end="559" vertical-scroll-proportion="-8.125" vertical-offset="0" max-vertical-offset="375">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="53" selection-start="1565" selection-end="1565" vertical-scroll-proportion="-19.038462" vertical-offset="0" max-vertical-offset="990">
-          <folding />
-        </state>
+        <state line="13" column="45" selection-start="559" selection-end="559" vertical-scroll-proportion="-8.125" vertical-offset="0" max-vertical-offset="375" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Buying-SellerAcceptedOffer.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="27" selection-start="969" selection-end="969" vertical-scroll-proportion="-20.0" vertical-offset="0" max-vertical-offset="570">
-          <folding />
-        </state>
+        <state line="32" column="27" selection-start="969" selection-end="969" vertical-scroll-proportion="-20.0" vertical-offset="0" max-vertical-offset="570" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Buying-SellerDeclinedOffer.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="28" selection-start="976" selection-end="976" vertical-scroll-proportion="-21.25" vertical-offset="0" max-vertical-offset="600">
-          <folding />
-        </state>
+        <state line="34" column="28" selection-start="976" selection-end="976" vertical-scroll-proportion="-21.25" vertical-offset="0" max-vertical-offset="600" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Buying-SellerSentMessage.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="28" selection-start="958" selection-end="958" vertical-scroll-proportion="-20.625" vertical-offset="0" max-vertical-offset="585">
-          <folding />
-        </state>
+        <state line="33" column="28" selection-start="958" selection-end="958" vertical-scroll-proportion="-20.625" vertical-offset="0" max-vertical-offset="585" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Buying-SoldToSomeoneElse.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="28" selection-start="953" selection-end="953" vertical-scroll-proportion="-21.875" vertical-offset="0" max-vertical-offset="615">
-          <folding />
-        </state>
+        <state line="35" column="28" selection-start="953" selection-end="953" vertical-scroll-proportion="-21.875" vertical-offset="0" max-vertical-offset="615" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Buying-UpdatedItemBiddingOn.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="28" selection-start="947" selection-end="947" vertical-scroll-proportion="-21.25" vertical-offset="0" max-vertical-offset="615">
-          <folding />
-        </state>
+        <state line="34" column="28" selection-start="947" selection-end="947" vertical-scroll-proportion="-21.25" vertical-offset="0" max-vertical-offset="615" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Buying-XNewOfers.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="28" selection-start="1085" selection-end="1085" vertical-scroll-proportion="-21.25" vertical-offset="0" max-vertical-offset="600">
+        <state line="34" column="28" selection-start="1085" selection-end="1085" vertical-scroll-proportion="-21.25" vertical-offset="0" max-vertical-offset="600" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Reminders-XOffersOnItem.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="28" selection-start="1020" selection-end="1020" vertical-scroll-proportion="-21.25" vertical-offset="0" max-vertical-offset="600" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Search-SearchAlert.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="28" selection-start="911" selection-end="911" vertical-scroll-proportion="-21.25" vertical-offset="0" max-vertical-offset="615" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Selling-NewComment.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="28" selection-start="1001" selection-end="1001" vertical-scroll-proportion="-20.625" vertical-offset="0" max-vertical-offset="585" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Selling-NewMessage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="28" selection-start="976" selection-end="976" vertical-scroll-proportion="-21.25" vertical-offset="0" max-vertical-offset="600" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Selling-NewOffer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="28" selection-start="28" selection-end="28" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="709" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Selling-NewFeedback.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="22" selection-start="933" selection-end="933" vertical-scroll-proportion="0.0" vertical-offset="435" max-vertical-offset="765">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Reminder-ItemStillForSale.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="28" selection-start="947" selection-end="947" vertical-scroll-proportion="-21.25" vertical-offset="0" max-vertical-offset="600">
+        <state line="25" column="75" selection-start="763" selection-end="763" vertical-scroll-proportion="-15.625" vertical-offset="0" max-vertical-offset="600">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Reminders-XOffersOnItem.html">
+    <entry file="file://$PROJECT_DIR$/app/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="28" selection-start="1020" selection-end="1020" vertical-scroll-proportion="-21.25" vertical-offset="0" max-vertical-offset="600">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Search-SearchAlert.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="28" selection-start="911" selection-end="911" vertical-scroll-proportion="-21.25" vertical-offset="0" max-vertical-offset="615">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Selling-NewComment.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="28" selection-start="1001" selection-end="1001" vertical-scroll-proportion="-20.625" vertical-offset="0" max-vertical-offset="585">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Selling-NewMessage.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="28" selection-start="976" selection-end="976" vertical-scroll-proportion="-21.25" vertical-offset="0" max-vertical-offset="600">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Selling-NewOffer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="28" selection-start="28" selection-end="28" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="709">
+        <state line="26" column="22" selection-start="1184" selection-end="1184" vertical-scroll-proportion="0.53424656" vertical-offset="0" max-vertical-offset="1005">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Buying-SellerAcceptedOffer-build.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="62" column="28" selection-start="1374" selection-end="1374" vertical-scroll-proportion="-4.3213367" vertical-offset="4292" max-vertical-offset="5070">
+        <state line="0" column="17" selection-start="17" selection-end="17" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5130">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Buying-SellerDeclinedOffer-build.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="0" selection-start="560" selection-end="560" vertical-scroll-proportion="0.37254903" vertical-offset="0" max-vertical-offset="5100">
+        <state line="60" column="0" selection-start="1262" selection-end="1262" vertical-scroll-proportion="-37.375" vertical-offset="3" max-vertical-offset="5160">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Buying-SellerSentMessage-build.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="137" column="0" selection-start="2563" selection-end="2563" vertical-scroll-proportion="0.26992288" vertical-offset="1845" max-vertical-offset="5085">
+        <state line="327" column="0" selection-start="7961" selection-end="7961" vertical-scroll-proportion="-140.25" vertical-offset="1539" max-vertical-offset="5145">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Buying-SoldToSomeoneElse-build.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="24" selection-start="752" selection-end="752" vertical-scroll-proportion="0.48200515" vertical-offset="0" max-vertical-offset="5115">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Buying-XNewOfers-build.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="0" selection-start="560" selection-end="560" vertical-scroll-proportion="0.36632392" vertical-offset="0" max-vertical-offset="5130">
+        <state line="70" column="20" selection-start="1544" selection-end="1544" vertical-scroll-proportion="-43.333332" vertical-offset="10" max-vertical-offset="5175">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Buying-UpdatedItemBiddingOn-build.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="54" column="20" selection-start="1167" selection-end="1167" vertical-scroll-proportion="1.0411311" vertical-offset="0" max-vertical-offset="5115">
+        <state line="189" column="24" selection-start="4064" selection-end="4064" vertical-scroll-proportion="-114.625" vertical-offset="84" max-vertical-offset="5175">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Buying-XNewOfers-build.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="60" column="0" selection-start="1262" selection-end="1262" vertical-scroll-proportion="-37.5" vertical-offset="0" max-vertical-offset="5190">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Reminder-ItemStillForSale-build.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="5" selection-start="606" selection-end="606" vertical-scroll-proportion="0.42416453" vertical-offset="0" max-vertical-offset="5100">
+        <state line="197" column="9" selection-start="4329" selection-end="4329" vertical-scroll-proportion="-57.375" vertical-offset="1578" max-vertical-offset="5160">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Reminders-XOffersOnItem-build.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2295">
+        <state line="2" column="0" selection-start="111" selection-end="111" vertical-scroll-proportion="11.875" vertical-offset="315" max-vertical-offset="2310">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Search-SearchAlert-build.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2310">
+        <state line="2" column="0" selection-start="111" selection-end="111" vertical-scroll-proportion="30.625" vertical-offset="765" max-vertical-offset="2325">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Selling-NewComment-build.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="0" selection-start="607" selection-end="607" vertical-scroll-proportion="-14.375" vertical-offset="0" max-vertical-offset="5085">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Selling-NewFeedback.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="22" selection-start="933" selection-end="933" vertical-scroll-proportion="-18.125" vertical-offset="0" max-vertical-offset="765">
+        <state line="200" column="0" selection-start="4450" selection-end="4450" vertical-scroll-proportion="-101.875" vertical-offset="555" max-vertical-offset="5145">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Selling-NewFeedback-build.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="88" column="0" selection-start="1810" selection-end="1810" vertical-scroll-proportion="100.0" vertical-offset="3720" max-vertical-offset="5265">
+        <state line="231" column="0" selection-start="5093" selection-end="5093" vertical-scroll-proportion="-72.75" vertical-offset="1719" max-vertical-offset="5325">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Selling-NewMessage-build.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="120" column="15" selection-start="2222" selection-end="2222" vertical-scroll-proportion="-75.0" vertical-offset="0" max-vertical-offset="5100">
+        <state line="232" column="19" selection-start="5113" selection-end="5113" vertical-scroll-proportion="3.442623" vertical-offset="960" max-vertical-offset="5160">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Selling-NewOffer-build.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="0" selection-start="759" selection-end="759" vertical-scroll-proportion="0.53642386" vertical-offset="0" max-vertical-offset="5100">
+        <state line="311" column="19" selection-start="7397" selection-end="7397" vertical-scroll-proportion="0.3237705" vertical-offset="4428" max-vertical-offset="5160">
           <folding />
         </state>
       </provider>
